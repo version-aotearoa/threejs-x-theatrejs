@@ -5,11 +5,11 @@
 - Start the dev server:
 
 ```bash
-yarn start
+npm run dev
 ```
 
 - Build for production:
 
 ```bash
-yarn build
+?
 ```
